@@ -1,3 +1,4 @@
+import { JSX } from "preact"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
 import { resolveRelative } from "../util/path"
@@ -5,7 +6,7 @@ import { resolveRelative } from "../util/path"
 import script from "./scripts/base-view-selector.inline"
 import baseViewSelectorStyle from "./styles/baseViewSelector.scss"
 
-const icons = {
+const icons: Record<string, JSX.Element> = {
   table: (
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -127,7 +128,7 @@ const icons = {
   ),
 }
 
-const viewTypeIcons: Record<string, JSX.Element> = {
+const viewTypeIcons: Record<string, JSX.Element | undefined> = {
   table: icons.table,
   list: icons.list,
   gallery: icons.card,
@@ -147,8 +148,7 @@ const BaseViewSelector: QuartzComponent = ({ fileData, displayClass }: QuartzCom
   const currentViewName = baseMeta.currentView
   const allViews = baseMeta.allViews
   const currentIcon =
-    viewTypeIcons[allViews.find((view) => view.name === currentViewName)?.type ?? ""] ??
-    icons.table
+    viewTypeIcons[allViews.find((view) => view.name === currentViewName)?.type ?? ""] ?? icons.table
 
   return (
     <div class={classNames(displayClass, "bases-toolbar")} data-base-view-selector>

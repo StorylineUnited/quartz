@@ -28,12 +28,17 @@ function setupBaseViewSelector() {
     if (selector.hasAttribute("data-initialized")) return
     selector.setAttribute("data-initialized", "true")
 
-    const trigger = selector.querySelector(".text-icon-button") as HTMLElement | null
-    const searchInput = selector.querySelector("[data-search-input]") as HTMLInputElement | null
-    const clearButton = selector.querySelector("[data-clear-search]") as HTMLElement | null
-    const viewList = selector.querySelector("[data-view-list]") as HTMLElement | null
+    const triggerEl = selector.querySelector(".text-icon-button") as HTMLElement | null
+    const searchInputEl = selector.querySelector("[data-search-input]") as HTMLInputElement | null
+    const clearButtonEl = selector.querySelector("[data-clear-search]") as HTMLElement | null
+    const viewListEl = selector.querySelector("[data-view-list]") as HTMLElement | null
 
-    if (!trigger || !searchInput || !clearButton || !viewList) return
+    if (!triggerEl || !searchInputEl || !clearButtonEl || !viewListEl) return
+
+    const trigger = triggerEl
+    const searchInput = searchInputEl
+    const clearButton = clearButtonEl
+    const viewList = viewListEl
 
     function toggleDropdown() {
       if (trigger.getAttribute("aria-expanded") === "true") {

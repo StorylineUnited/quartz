@@ -8,9 +8,7 @@ export default (() => {
 
     return (
       <div class="popover-hint">
-        <article
-          class={["base-content", ...(fileData.frontmatter?.cssclasses ?? [])].join(" ")}
-        >
+        <article class={["base-content", ...(fileData.frontmatter?.cssclasses ?? [])].join(" ")}>
           {htmlToJsx(fileData.filePath!, fileData.basesRenderedTree ?? tree)}
         </article>
       </div>

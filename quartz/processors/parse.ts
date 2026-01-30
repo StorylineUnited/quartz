@@ -111,7 +111,9 @@ export function createFileParser(ctx: BuildCtx, fps: FilePath[]) {
         res.push([newAst, file])
 
         if (argv.verbose) {
-          console.log(`[${isBaseFile ? "base" : "markdown"}] ${fp} -> ${file.data.slug} (${perf.timeSince()})`)
+          console.log(
+            `[${isBaseFile ? "base" : "markdown"}] ${fp} -> ${file.data.slug} (${perf.timeSince()})`,
+          )
         }
       } catch (err) {
         trace(`\nFailed to process markdown \`${fp}\``, err as Error)
