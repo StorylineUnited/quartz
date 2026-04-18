@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(perl -i -pe 's/\\(\\\\d{4}-\\\\d{2}-\\\\d{2}-[a-z0-9-]+\\\\.md\\)/[$1]\\(..\\\\/raw\\\\/$1\\)/g' /Users/anemones/Library/CloudStorage/Dropbox/obsidian-projects/blogs/wiki/*.md)"
+    ]
+  }
+}
