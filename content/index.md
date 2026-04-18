@@ -1,5 +1,5 @@
 ---
-title: Welcome to the Church Street Wiki
+title: Welcome to the Church Street wiki
 ---
 
 # Welcome
