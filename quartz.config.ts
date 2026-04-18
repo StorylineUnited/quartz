@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "churchstreetwiki.netlify.app/blogs/wiki/",
+    baseUrl: "churchstreetwiki.netlify.app/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
