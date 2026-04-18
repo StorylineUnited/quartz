@@ -1,5 +1,5 @@
 ---
-title: Welcome to Church Street | Church neighboring daily life
+title: Welcome to the Church Street Wiki
 ---
 
 # Welcome
