@@ -3,7 +3,7 @@ title: Welcome to the Church Street Wiki
 ---
 
 # Welcome
-This is a wiki of the Life Made Manifest Church Street blog.
+This is a wiki of the Life Made Manifest Church Street blog. Church neighboring daily life.
 
 ## Wiki
 Select the 'wiki' folder to see the 16 wiki pages. Click on an option to view it.
