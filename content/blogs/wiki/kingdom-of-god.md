@@ -2,9 +2,9 @@
 
 **Summary**: The Kingdom of God is the "first way" — humanity's original design under God's authority — and the alternative political identity that Christians inhabit as a distinct people.
 
-**Sources**: [2026-04-07-the-first-way.md](../raw/2026-04-07-the-first-way.md), [2020-01-15-vision-mission-and-strategy.md](../raw/2020-01-15-vision-mission-and-strategy.md), [2025-11-12-upside-down-kingdom.md](../raw/2025-11-12-upside-down-kingdom.md), [2019-08-13-cultural-literacy-and-fluency.md](../raw/2019-08-13-cultural-literacy-and-fluency.md), [2020-03-28-four-asks-of-formation.md](../raw/2020-03-28-four-asks-of-formation.md), [2021-11-23-on-authority.md](../raw/2021-11-23-on-authority.md), [2018-02-20-lead-follow-or-accept-restraint.md](../raw/2018-02-20-lead-follow-or-accept-restraint.md), [2020-10-31-together-we-are.md](../raw/2020-10-31-together-we-are.md)
+**Sources**: [2026-04-07-the-first-way.md](../raw/2026-04-07-the-first-way.md), [2020-01-15-vision-mission-and-strategy.md](../raw/2020-01-15-vision-mission-and-strategy.md), [2025-11-12-upside-down-kingdom.md](../raw/2025-11-12-upside-down-kingdom.md), [2019-08-13-cultural-literacy-and-fluency.md](../raw/2019-08-13-cultural-literacy-and-fluency.md), [2020-03-28-four-asks-of-formation.md](../raw/2020-03-28-four-asks-of-formation.md), [2021-11-23-on-authority.md](../raw/2021-11-23-on-authority.md), [2018-02-20-lead-follow-or-accept-restraint.md](../raw/2018-02-20-lead-follow-or-accept-restraint.md), [2020-10-31-together-we-are.md](../raw/2020-10-31-together-we-are.md), [2026-04-21-who-contributes-more?.md](../raw/2026-04-21-who-contributes-more?.md)
 
-**Last updated**: 2026-04-17
+**Last updated**: 2026-04-21
 
 ---
 
@@ -27,6 +27,8 @@ The Kingdom appears "upside down" only by the world's metrics. By God's metrics,
 - The merciful, peacemakers, and oppressed
 
 Paul echoes these values in 1 Corinthians 13 and Galatians 5. Kingdom culture is consistently self-giving toward God and neighbor, not self-advancing.
+
+This upside-down logic extends to economic contribution. A 2026 post applies the same inversion to the question of who benefits society: trust-builders who earn no paycheck may contribute more than high earners who erode social trust (source: [2026-04-21-who-contributes-more?.md](../raw/2026-04-21-who-contributes-more?.md)). By the Kingdom's measure, the person who builds trust and community is doing real and valuable work — whether or not the economy notices.
 
 ## Vision, Mission, and Strategy
 

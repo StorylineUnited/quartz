@@ -32,3 +32,18 @@ Append-only record of all wiki operations.
 **Approach**: Sampled ~38 posts spanning full date range; identified 16 major themes; wrote concept pages with source citations and wiki-links.
 
 **Coverage gaps**: Posts not sampled directly may contain material that would enrich or nuance existing pages. Future ingests of specific posts or clusters are recommended. The 2022 gap (only one post: `[2022-02-04-one.md](../raw/2022-02-04-one.md)`) and the 2023–2024 gap (no posts) are noted — no source material exists for those periods.
+
+---
+
+## 2026-04-21 — Ingest: 2026-04-21-who-contributes-more?.md
+
+**Operation**: Enriched three existing pages; no new pages created.
+
+**Source file**: [2026-04-21-who-contributes-more?.md](../raw/2026-04-21-who-contributes-more?.md)
+
+**Key argument**: Trust may be a greater economic stimulus than labor-force participation. Wealthy, employed people who erode trust may undermine the economy more than non-earners who build it. Challenges reductive metrics of human contribution.
+
+**Pages updated**:
+- `stewardship.md` — new section "Trust as a Stewardable Resource"; trust named as a common resource that can be built up or spent down
+- `human-dignity.md` — added to "People Stewardship vs. Human Resources": economic metrics that reduce persons to paycheck-earning status are another form of dehumanization
+- `kingdom-of-god.md` — added to "The Right-Side-Up Kingdom": upside-down Kingdom logic applied to economic contribution

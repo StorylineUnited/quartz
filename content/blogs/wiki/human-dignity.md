@@ -2,9 +2,9 @@
 
 **Summary**: Human dignity — rooted in the image of God (*imago Dei*) — is both the foundation of Christian ethics and the primary target of all sin; restoring it is the core of Kingdom work.
 
-**Sources**: [2017-07-05-rehumanizing.md](../raw/2017-07-05-rehumanizing.md), [2019-09-16-every-problem-in-the-world.md](../raw/2019-09-16-every-problem-in-the-world.md), [2017-07-12-survival-of-the-weakest.md](../raw/2017-07-12-survival-of-the-weakest.md), [2017-06-10-just-mercy.md](../raw/2017-06-10-just-mercy.md), [2018-05-02-born-poor-reborn-rich.md](../raw/2018-05-02-born-poor-reborn-rich.md)
+**Sources**: [2017-07-05-rehumanizing.md](../raw/2017-07-05-rehumanizing.md), [2019-09-16-every-problem-in-the-world.md](../raw/2019-09-16-every-problem-in-the-world.md), [2017-07-12-survival-of-the-weakest.md](../raw/2017-07-12-survival-of-the-weakest.md), [2017-06-10-just-mercy.md](../raw/2017-06-10-just-mercy.md), [2018-05-02-born-poor-reborn-rich.md](../raw/2018-05-02-born-poor-reborn-rich.md), [2026-04-21-who-contributes-more?.md](../raw/2026-04-21-who-contributes-more?.md)
 
-**Last updated**: 2026-04-17
+**Last updated**: 2026-04-21
 
 ---
 
@@ -25,6 +25,8 @@ The shift from "Personnel" to "Human Resources" in organizational language marke
 "People stewardship must look different than the stewardship of non-human resources." The alternative is stewarding *influence* — the relational trust and impact we have with people — rather than managing people as inputs.
 
 This applies in workplaces, [[community]] structures, and church leadership. A "two-tiered humanity" where rights belong only to the powerful is a direct contradiction of the Gospel.
+
+The logic extends to economic metrics: measuring human contribution by Labor Force Participation Rate reduces persons to their paycheck-earning status — the same reductive move in economic language. A 2026 post argues that trust-builders who earn no wage may contribute more to human flourishing than employed people who erode social trust (source: [2026-04-21-who-contributes-more?.md](../raw/2026-04-21-who-contributes-more?.md)). Dehumanization by economic metric is still dehumanization.
 
 ## Care for the Vulnerable
 
